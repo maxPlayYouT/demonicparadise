@@ -1,0 +1,1 @@
+<iframe src="http://localhost/monitor/index.php" frameborder="no" scrolling="no"></iframe>
